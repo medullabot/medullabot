@@ -11,3 +11,10 @@ Medulla is currently the only model to bring all three together.
 ## Getting Started
 
 To get started with Medulla visit [github.com/tinyhumansai/medulla](https://github.com/tinyhumansai/medulla)
+
+Install using
+
+```bash
+# Mac/Bash/Linux
+curl -fsSL https://raw.githubusercontent.com/tinyhumansai/medulla/main/install.sh | sh
+```
