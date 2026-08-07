@@ -1,4 +1,4 @@
-![Hero Image](https://github.com/tinyhumansai/medulla/raw/main/docs/screen.png)
+![Hero Image](https://github.com/tinyhumansai/medulla/raw/main/docs/pitch.gif)
 
 # Medulla: The Orchestrator
 
